@@ -1,4 +1,4 @@
-#Crea un programa donde se ingresen 5 numeros y devuelva su promedio#
+#Crear un programa donde se ingresen 5 numeros y devuelva su promedio
 lista=[]
 for i in range(5):
     numero=int(input(f"Ingrese el numero {i+1}: "))
