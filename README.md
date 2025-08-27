@@ -1,1 +1,1 @@
-# miPrimerRepo
+# Ejercicios de lógica de programación
